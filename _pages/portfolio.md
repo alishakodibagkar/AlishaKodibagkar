@@ -2,10 +2,9 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
-description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [research, engineering, articles, music]
 horizontal: false
 ---
 
