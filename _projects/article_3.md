@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: Xenobots, The First Living Robots
+description: "(2020) Online Article in JHU Hippocrates Medical Review Journal: tackling the information gap between patient and provider"
+img: assets/img/article_3.png
+redirect: http://hippocratesmedreview.org/xenobots-the-first-living-robots/
+importance: 3
+category: written articles
 ---
 
 Every project has a beautiful feature showcase page.

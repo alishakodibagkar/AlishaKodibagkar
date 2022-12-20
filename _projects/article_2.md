@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: How Dueling Neural Networks are Fighting for the Next Steps in Medicine
+description: "(2020) Online Article in JHU Hippocrates Medical Review Journal: tackling the information gap between patient and provider"
+img: assets/img/article_2.png
+redirect: http://hippocratesmedreview.org/how-dueling-neural-networks-are-fighting-for-the-next-steps-in-medicine/
+importance: 2
+category: written articles
 ---
 
 Every project has a beautiful feature showcase page.

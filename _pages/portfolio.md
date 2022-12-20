@@ -4,7 +4,7 @@ title: portfolio
 permalink: /portfolio/
 nav: true
 nav_order: 1
-display_categories: [research, engineering, articles, music]
+display_categories: [research, engineering, written articles, music, work]
 horizontal: false
 ---
 

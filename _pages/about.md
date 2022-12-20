@@ -7,6 +7,10 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
+  address: >
+    <p> Office: 46-5094</p>
+    <p> 43 Vassar Street</p>
+    <p> Cambridge, MA 02139</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

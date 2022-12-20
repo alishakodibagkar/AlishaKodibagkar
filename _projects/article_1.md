@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Prosthetics with a Sense of Touch and Pain
+description: "(2019) Published Article in JHU Hippocrates Medical Review Journal: tackling the information gap between patient and provider"
+img: assets/img/article_1.jpg
+redirect: http://hippocratesmedreview.org/wp-content/uploads/2021/02/HMR-Proofs-Final.pdf
 importance: 1
-category: work
+category: written articles
 ---
 
 Every project has a beautiful feature showcase page.

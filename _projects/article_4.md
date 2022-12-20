@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Self-Healing Soft Robots
+description: "(2020) Online Article in JHU Hippocrates Medical Review Journal: tackling the information gap between patient and provider"
+img: assets/img/article_4.png
+redirect: http://hippocratesmedreview.org/self-healing-soft-robots/
 importance: 4
-category: fun
+category: written articles
 ---
 
 Every project has a beautiful feature showcase page.
